@@ -14,6 +14,7 @@
             <br>
             <label>Gender:</label>
             <label for="male">Male</label>
+            <!-- <name attribute allows to select only on button which belong to same name -->
             <input type="radio" value="male" name="gender">
             <label for="female">Female</label>
             <input type="radio" value="female" name="gender">
